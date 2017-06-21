@@ -18,7 +18,7 @@ There are total <b>5</b> functions that I've put inside the library for you guys
 
 - Return-type: BOOL 
 
-<h3>How to use</h3>
+<h3>Info</h3>
 - The function will return 'TRUE' (1) if the current process has administrator privilege or 'FALSE' (0) if not.
 
 <h2>2. <b>ElevateCurrentProcess</b> function</h2>
@@ -26,9 +26,9 @@ There are total <b>5</b> functions that I've put inside the library for you guys
 
 - Parameters: No
 
-- Return-type: void() 
+- Return-type: No return 
 
-<h3>How to use</h3>
+<h3>Info</h3>
 - The function will elevate the privilege of the process to the highest during running. 
 
 <h2>3. <b>IsStartup</b> function</h2>
@@ -38,7 +38,7 @@ There are total <b>5</b> functions that I've put inside the library for you guys
 
 - Return-type: BOOL
 
-<h3>How to use</h3>
+<h3>Info</h3>
 - The function will check if the value is existed in registry with a user-specified key. Return 'TRUE'(1) if the value is existed.
 
 <h2>4. <b>RegisterApp</b> function</h2>
@@ -48,7 +48,7 @@ There are total <b>5</b> functions that I've put inside the library for you guys
 
 - Return-type: BOOL
 
-<h3>How to use</h3>
+<h3>Info</h3>
 - The function will assign the value name and its components (path, args) to a user-specified key (hSubKey). If the key (hSubKey) is <b>HKEY_LOCAL_MACHINE</b>, administrator privilege will be required. Return 'TRUE'(1) if success.
 
 <h2>5. <b>EnableStartup</b> function</h2>
@@ -58,8 +58,5 @@ There are total <b>5</b> functions that I've put inside the library for you guys
 
 - Return-type: No return
 
-<h3>How to use</h3>
+<h3>Info</h3>
 - The function is a combine version of <b>3</b> and <b>4</b> function together. 
-
-
-
