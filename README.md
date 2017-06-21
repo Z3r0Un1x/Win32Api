@@ -5,7 +5,7 @@ You can download the DLLs for x86 or x64 computer in <b>(x86)</b> and <b>(x64)</
 
 Read carefully the 'ReadMe.txt' for instruction.
 
-Examples is put in the <b>'Example.cpp'</b> file. 
+Examples are put in the <b>'Example.cpp'</b> file. 
 
 ---
 
