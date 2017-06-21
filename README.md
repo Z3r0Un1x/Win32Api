@@ -1,12 +1,11 @@
 # ZeroDll
-<p>A <b>light-weight</b> DLL (dynamic-link library) built in pure C++ for WIN32-API programming purpose.</p>
-<p>The library will be updated and optimized regularly.</p>
+<p>A <b>light-weight</b> DLL (dynamic-link library) built in pure C++ for WIN32-API programming purpose.The library will be updated and optimized regularly.</p>
 
 You can download the DLLs for x86 or x64 computer in <b>(x86)</b> and <b>(x64)</b> folder.
 
 Read carefully the 'ReadMe.txt' for instruction.
 
-Examples is put in the 'Example.cpp' file. 
+Examples is put in the <b>'Example.cpp'</b> file. 
 
 ---
 
