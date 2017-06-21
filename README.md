@@ -7,7 +7,9 @@ You can download the DLLs for x86 or x64 computer in <b>(x86)</b> and <b>(x64)</
 Read carefully the 'ReadMe.txt' for instruction.
 
 Examples is put in the 'Example.cpp' file. 
+
 ---
+
 ## What's inside? 
 There are total <b>5</b> functions that I've put inside the library for you guys 
 
