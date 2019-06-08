@@ -10,7 +10,7 @@ Examples are put in the <b>'Example.cpp'</b> file.
 ---
 
 ## What's inside? 
-There are total <b>5</b> functions that I've put inside the library for you guys 
+There are total <b>5</b> functions that I've put inside the library
 
 <h2>1. <b>AdministratorPrivilege</b> function</h2>
 - Origin: BOOL AdministratorPrivilege(<i>VOID</i>)
