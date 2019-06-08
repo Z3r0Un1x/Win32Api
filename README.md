@@ -60,4 +60,4 @@ There are total <b>5</b> functions that I've put inside the library
 - Return-type: No return
 
 <h3>Info</h3>
-- The function is a combine version of <b>3</b> and <b>4</b> function together. 
+- The function is a combined version of <b>3</b> and <b>4</b> function together. 
